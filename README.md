@@ -19,3 +19,6 @@ This is one of my first hardware-focused projects in the realm of PCB developmen
 |4  |220nF                        |C1        |C0603                                        |1       |CL10B224KA8NNNC  |SAMSUNG(三星) |LCSC    |C21120       |0.006|https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B224KA8NNNC_C21120.html|
 |5  |NT3H2111W0FHKH               |U1        |XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH     |1       |NT3H2111W0FHKH   |NXP(恩智浦)    |LCSC    |C710403      |0.886|https://lcsc.com/product-detail/RFID-ICs_NXP-Semicon-NT3H2111W0FHKH_C710403.html                                                |
 |6  |PCB with Assembly and Shipping|          |                                             |        |                 |            |PCBWay  |             |28   |                                                                                                                                |
+
+PCB & Parts -> Approximately $6
+Shipping -> Approximately $22
