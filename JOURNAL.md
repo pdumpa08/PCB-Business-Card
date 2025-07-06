@@ -20,4 +20,4 @@ After settling on my base version 1.0 visual and technical design, I moved on to
 ![v2.0_schematic](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v2.0_schematic.png)
 ![v2.0_2d](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v2.0_2d.png)
 
-**Total time spent: 5.50h**
+**Total time spent: 5.75h**
