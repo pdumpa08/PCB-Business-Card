@@ -20,5 +20,5 @@ This is one of my first hardware-focused projects in the realm of PCB developmen
 |5  |NT3H2111W0FHKH               |U1        |XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH     |1       |NT3H2111W0FHKH   |NXP(恩智浦)    |LCSC    |C710403      |0.886|https://lcsc.com/product-detail/RFID-ICs_NXP-Semicon-NT3H2111W0FHKH_C710403.html                                                |
 |6  |PCB with Assembly and Shipping|          |                                             |        |                 |            |PCBWay  |             |28   |                                                                                                                                |
 
-PCB & Parts -> Approximately $6
-Shipping -> Approximately $22
+
+PCB & Parts -> Approximately $6 || Shipping -> Approximately $22
