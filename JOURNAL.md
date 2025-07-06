@@ -26,4 +26,4 @@ After settling on my base version 1.0 visual and technical design, I moved on to
 
 New design made! (Details in the morning)
 
-**Total time spent: 5.75h**
+**Total time spent: 2.50h**
