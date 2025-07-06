@@ -37,6 +37,10 @@ Lastly, I attempted to move one of the LEDs into the dragon's eye. Although all 
 
 # July 6th: Final Push!
 
-Details coming!
+Today, I went through all of the improvements I found out about the previous night. A little more specifically, I modified the positioning of the traces and components so that current is able to flow without short circuiting or getting interrupted and added a ground piece of copper to the design to further enhance the connectivity. In addition, I moved the components around to better modularize the design and make it efficient based on electrical engineering principles (ChatGPT helped me with finding out what changes were important).
+
+After making all of those changes, I spent a singificant amount of time preparing my github repo/project for submission based on the highway guidelines. This is in all honesty one of my first hardware projects and I'm very happy with the design, technical ability, and cost efficiency of my product (version 4.0, the final edition for now). Looking forward to submission!
+
+![v4.0_2d](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v4.0_2d.png?raw=true)
 
 **Total time spent: 3.00h**
