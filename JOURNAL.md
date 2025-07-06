@@ -31,6 +31,8 @@ Adding the design was an amazing hassle. I had to find the right image (insanely
 
 Lastly, I attempted to move one of the LEDs into the dragon's eye. Although all the connections work and there are no DRC errors, I found, after querying AI, that there were important electrical engineering principles that I had not included in my desing (45 degree angles, ground planes, etc.). That will have to come tomorrow.
 
+![v3.0_2d](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v3.0_2d.png?raw=true)
+
 **Total time spent: 2.50h**
 
 # July 6th: Final Push!
