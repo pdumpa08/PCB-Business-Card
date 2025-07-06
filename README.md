@@ -3,7 +3,7 @@ A PCB business card for Hack Club's Undercity hackathon with special features! A
 
 # PCB Design
 
-![v4.0_2d](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v4.0_3d.png?raw=true)
+![v4.0_2d](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v4.0_2d.png?raw=true)
 ![v4.0_3d](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v4.0_3d.png?raw=true)
 
 # Schematic
