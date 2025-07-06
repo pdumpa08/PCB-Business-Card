@@ -4,8 +4,9 @@ author: "Praneet"
 description: "My custom PCB business card"
 created_at: "2025-07-05"
 ---
+<em>Total Time Spent: 12.50h</em>
 
-# July 5th: Designed v1.0 and v2.0 of project!
+# July 5th P1: Designed v1.0 and v2.0 of project!
 
 To start off, I researched different projects that would fit my abilities and the hack club project guidelines. After finalizing the PCB Business Card as my project, I researched different tutorials that could help me understand the basic process of designing a PCB that could be shipped. I ended up finding the perfect resource right here at hack club: https://jams.hackclub.com/jam/hacker-card.
 
@@ -17,13 +18,23 @@ In my initial prototype (v1.0), I kept only the very backbone of the ideal end P
 
 After settling on my base version 1.0 visual and technical design, I moved on to preparing version 2.0 of my PCB Business Card. The main objective of this update would be to increase the number of LEDs on my PCB Business Card. This portion of development was probably the biggest obstacle I faced today. The reason for that was the fact that adding an LED required that many diffferent constraints be met: sufficient voltage, efficient wiring (parallel in this case, I believe this was the issue that stopped another hack clubber from implementing multiple LEDs in his project), and most importantly (annoyingly), connecting an entire new LED to the components already on the PCB design. This took me an insane amount of time. When attempting to trace the necessary connections on the PCB design, I constantly ran into scenarios that owuld result in short-circuiting, leading to an extremely tedious trial-and-error proocess to find the optimal connection paths. After playing a game of technical free flow, I had successfully added another LED to my PCB Business Card. This would be version 2.0 of my product.
 
-![v2.0_schematic](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v2.0_schematic.png)
-![v2.0_2d](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v2.0_2d.png)
+![v2.0_schematic](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v2.0_schematic.png?raw=true)
+![v2.0_2d](https://github.com/pdumpa08/PCB-Business-Card/blob/main/img/v2.0_2d.png?raw=true)
 
 **Total time spent: 5.75h**
 
-# July 5th: Designed v3.0 of project!
+# July 5th P2: Designed v3.0 of project!
 
-New design made! (Details in the morning)
+New design made! I took a look at my design again and thought: how can I make this thing stand out. After considering all of my options, I came upon the idea of adding a cool design. Initially, I considered adding a phoenix with the eye lighting up, but the form factor wouldn't work with the space I had remaining on my PCB Business Card. So, in the end I decided on a dragon breathing fire (more horizontal than a phoenix would've been).
+
+Adding the design was an amazing hassle. I had to find the right image (insanely hard even with AI) and then convert that image into a form that could be used on my PCB Business Card (svg). While doing so, I had to modify the image on canva and figma to ensure the colors and size were appropriate. Later, I had to separate the flame from the dragon's image in order ot size the two separately on my PCB Business Card.
+
+Lastly, I attempted to move one of the LEDs into the dragon's eye. Although all the connections work and there are no DRC errors, I found, after querying AI, that there were important electrical engineering principles that I had not included in my desing (45 degree angles, ground planes, etc.). That will have to come tomorrow.
 
 **Total time spent: 2.50h**
+
+# July 6th: Final Push!
+
+
+
+**Total time spent: 3.00h**
