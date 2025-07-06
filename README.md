@@ -1,5 +1,5 @@
-# PCB Hacker Badge Pro
-A PCB business card for Hack Club's Undercity hackathon with special features! An upgrade to my original PCB business card, this card features two LEDs instead of one and additional updated information about myself. Created for Hack Club's Highway program.
+# Praneet's PCB Business Card
+This is one of my first hardware-focused projects in the realm of PCB development. I've created a design that once assembled, I will bring with me to conferences and any number of other places where introducing myself would be very useful. The reason I settled on this project specifically is because it seemed to fit my technical understanidng of the conepts needed to successfuly build a project and it would be very useful in a lot of the program I participate in (my local chamber of commerce, FBLA, etc.)
 
 # PCB Design
 
