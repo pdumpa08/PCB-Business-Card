@@ -35,6 +35,6 @@ Lastly, I attempted to move one of the LEDs into the dragon's eye. Although all 
 
 # July 6th: Final Push!
 
-
+Details coming!
 
 **Total time spent: 3.00h**
