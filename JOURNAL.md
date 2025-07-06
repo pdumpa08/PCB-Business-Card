@@ -17,4 +17,6 @@ In my initial prototype (v1.0), I kept only the very backbone of the ideal end P
 
 After settling on my base version 1.0 visual and technical design, I moved on to preparing version 2.0 of my PCB Business Card. The main objective of this update would be to increase the number of LEDs on my PCB Business Card. This portion of development was probably the biggest obstacle I faced today. The reason for that was the fact that adding an LED required that many diffferent constraints be met: sufficient voltage, efficient wiring (parallel in this case, I believe this was the issue that stopped another hack clubber from implementing multiple LEDs in his project), and most importantly (annoyingly), connecting an entire new LED to the components already on the PCB design. This took me an insane amoutn of time. When attempting to trace the necessary connections on the PCB design, I constantly ran into scenarios that owuld result in short-circuiting, leading to an extremely tedious trial-and-error proocess to find the optimal connection paths. After playing a game of technical free flow, I had successfully added another LED to my PCB Business Card. This would be version 2.0 of my product.
 
+
+
 **Total time spent: 5.50h**
